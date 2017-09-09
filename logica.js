@@ -1,4 +1,4 @@
-function escribir(){
+/*function escribir(){
   var txtFile = "data.txt";
   var file = new File([""],txtFile);
   var str = "bien y tu?";
@@ -8,10 +8,10 @@ function escribir(){
   file.writeln("Second line of text " + str);
   file.write(str);
   file.close();
-}
+}*/
 
 $(document).ready(function(){
-  escribir();
+  //escribir();
   $.get('data.txt', function(data) {
    alert(data);
   }, 'text');
