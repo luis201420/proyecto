@@ -1,6 +1,6 @@
 function escribir(){
   var txtFile = "data.txt";
-  var file = new File(txtFile);
+  var file = new File([""],txtFile);
   var str = "bien y tu?";
 
   file.open("w"); // open file with write access
