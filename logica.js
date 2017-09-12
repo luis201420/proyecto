@@ -11,8 +11,15 @@
 }*/
 
 function mostrar(data){
+  var info = "";
   for(var i=0; i<data.length;i++){
-    $("#contenido").append("<p>Algo</p>");
+    if(data[i]!='\n'){
+      info=info+data[i];
+    }
+    else{
+      $("#contenido").append("<p>"+info+"</p>");
+      info = "";
+    }
   }
 }
 
