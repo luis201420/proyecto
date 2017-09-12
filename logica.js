@@ -11,14 +11,20 @@
 }*/
 
 function mostrar(data){
-  var info = "";
+  var nombre = "";
+  var link = "";
+  var val = 0;
   for(var i=0; i<data.length;i++){
     if(data[i]!='\n'){
-      info=info+data[i];
+      if(data[i]=='-'){val=1;}
+      
+      if(val==0){nombre=nombre+data[i];}
+      else{link=link+data[i];}
     }
     else{
-      $("#contenido").append("<p>"+info+"</p>");
+      $("#contenido").append("<h1>"+nombre+"</h1><h3>"+link+"</h3>");
       info = "";
+      val=0;
     }
   }
 }
