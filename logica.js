@@ -10,6 +10,12 @@
   file.close();
 }*/
 
+function mostrar(data){
+  for(var i=0; i<data.length;i++){
+    $("#contenido").append("<p>Algo</p>");
+  }
+}
+
 $(document).ready(function(){
   //escribir();
   $.get('data.txt', function(data) {
