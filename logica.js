@@ -11,21 +11,22 @@
 }*/
 
 function mostrar(data){
-  var nombre = "";
-  var link = "";
-  var val = 0;
+  var nombre = ""; /* variable para almacenar el nombre o descripcion de la pagina*/
+  var link = ""; // guarda la URL de la pagina
+  var val = 0; // mira si se tiene que guardar el nombre o la url
 
-  for(var i=0; i<data.length;i++){
-    if(data[i]!='\n'){
-      if(data[i]=='-'){val=1;}
+  for(var i=0; i<data.length;i++){ //recorremos la cadena (archivo)
+    if(data[i]!='\n'){ // hasta que acabe la linea
+      if(data[i]=='-'){val=1;} // cambia la validacion para que lea ahora la URL
       else{
-        if(val==0){nombre=nombre+data[i];}
-        else{link=link+data[i];}
+        if(val==0){nombre=nombre+data[i];} // si la validacion esta en 0 leera el nombre
+        else{link=link+data[i];} // caso contrario leera  la URL
       }
     }
     else{
+      // mostrara los datos recolectados del archivo para poder acceder a ellos
       $("#contenido").append("<h1>"+nombre+"</h1><a href=\""+link+"\">"+link+"</a>");
-      nombre = link = "";
+      nombre = link = ""; //receteamos los valores para la nueva linea
       val=0;
     }
   }
