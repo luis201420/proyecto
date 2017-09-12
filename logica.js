@@ -19,6 +19,6 @@ function mostrar(data){
 $(document).ready(function(){
   //escribir();
   $.get('data.txt', function(data) {
-   alert(data);
+   mostrar(data);
   }, 'text');
 });
