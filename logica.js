@@ -25,7 +25,8 @@ function mostrar(data){
     }
     else{
       // mostrara los datos recolectados del archivo para poder acceder a ellos
-      $("#contenido").append("<h1>"+nombre+"</h1><a href=\""+link+"\">"+link+"</a>");
+      //$("#info").append("<h1>"+nombre+"</h1><a href=\""+link+"\">"+link+"</a>");
+      $("#info").append("<tr><td>"+nombre+"</td><td>"+"<a href=\""+link+"\">"+link+"</a>"+"</td><td>12/12/12</td></tr>");
       nombre = link = ""; //receteamos los valores para la nueva linea
       val=0;
     }
