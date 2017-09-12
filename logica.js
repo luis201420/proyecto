@@ -14,16 +14,17 @@ function mostrar(data){
   var nombre = "";
   var link = "";
   var val = 0;
+  
   for(var i=0; i<data.length;i++){
     if(data[i]!='\n'){
       if(data[i]=='-'){val=1;}
-      
+
       if(val==0){nombre=nombre+data[i];}
       else{link=link+data[i];}
     }
     else{
       $("#contenido").append("<h1>"+nombre+"</h1><h3>"+link+"</h3>");
-      info = "";
+      nombre = link = "";
       val=0;
     }
   }
