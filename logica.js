@@ -18,7 +18,7 @@ function mostrar(data){
 
   for(var i=0; i<data.length;i++){ //recorremos la cadena (archivo)
     if(data[i]!='\n'){ // hasta que acabe la linea
-      if(data[i]=='-'){val=val+1;} // cambia la validacion para que lea ahora la URL
+      if(data[i]=='-' && data[i+1]==' '){val=val+1;} // cambia la validacion para que lea ahora la URL
       else{
         if(val==0){nombre=nombre+data[i];} // si la validacion esta en 0 leera el nombre
         else if(val==1){link=link+data[i];} // si es 1 leera  la URL
