@@ -1,3 +1,6 @@
-Facebook - https://www.facebook.com/ - 10/09/17
-Google - https://www.google.com.pe/?gws_rd=ssl - 11/09/17
+Simple Android WebView Example and Tutorial - http://www.viralandroid.com/2015/08/simple-android-webview-example.html - 13/09/17
+Building Web Apps in WebView - https://developer.android.com/guide/webapps/webview.html - 13/09/17
 Android WebView - https://www.tutorialspoint.com/android/android_webview_layout.htm - 13/09/17
+ANDROID >> EJEMPLO DE WEBVIEW EN ANDROID ( PARTE 1 ) - https://amatellanes.wordpress.com/2013/06/01/android-ejemplo-de-webview-en-android-parte-1/ - 13/09/17
+Android WebView example - https://www.mkyong.com/android/android-webview-example/ - 13/09/17
+How to read text file in android from web? - https://stackoverflow.com/questions/6099429/how-to-read-text-file-in-android-from-web - 13/09/17
