@@ -4,3 +4,4 @@ Android WebView - https://www.tutorialspoint.com/android/android_webview_layout.
 ANDROID >> EJEMPLO DE WEBVIEW EN ANDROID ( PARTE 1 ) - https://amatellanes.wordpress.com/2013/06/01/android-ejemplo-de-webview-en-android-parte-1/ - 13/09/17
 Android WebView example - https://www.mkyong.com/android/android-webview-example/ - 13/09/17
 How to read text file in android from web? - https://stackoverflow.com/questions/6099429/how-to-read-text-file-in-android-from-web - 13/09/17
+QScrollArea missing Scrollbar - https://stackoverflow.com/questions/18703286/qscrollarea-missing-scrollbar/18704271#18704271 - 21/09/17
