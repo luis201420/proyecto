@@ -7,5 +7,7 @@ How to read text file in android from web? - https://stackoverflow.com/questions
 QScrollArea missing Scrollbar - https://stackoverflow.com/questions/18703286/qscrollarea-missing-scrollbar/18704271#18704271 - 21/09/17
 Humble Store - https://www.humblebundle.com/store - 21/09/17
 Algoritmo Planificador - https://www.slideshare.net/Rasaraguro/planificacion-de-cpu-fcfs-first-come-first-served - 27-09-17
-
-
+Flash Cards - http://www.esolhelp.com/esl-flashcards.html - 30-09-17
+English Practice - https://www.aprendeinglessila.com/2014/05/trucos-aprender-vocabulario-ingles - 30-09-17
+English Phonemic - http://www.teachingenglish.org.uk/article/phonemic-chart - 30-09-17
+Collocations - https://www.aprendeinglessila.com/2015/10/collocations-ingles-espanol-con-pronunciacion-y-pdf/ - 30-09-17
