@@ -11,3 +11,6 @@ Flash Cards - http://www.esolhelp.com/esl-flashcards.html - 30-09-17
 English Practice - https://www.aprendeinglessila.com/2014/05/trucos-aprender-vocabulario-ingles - 30-09-17
 English Phonemic - http://www.teachingenglish.org.uk/article/phonemic-chart - 30-09-17
 Collocations - https://www.aprendeinglessila.com/2015/10/collocations-ingles-espanol-con-pronunciacion-y-pdf/ - 30-09-17
+Intelligent agent - https://en.wikipedia.org/wiki/Intelligent_agent - 08/09/17
+Intelligent Agents - https://www.ics.uci.edu/~rickl/courses/cs-171/cs171-lecture-slides/cs-171-01-Agents.pdf - 08/09/17
+
