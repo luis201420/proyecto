@@ -13,4 +13,7 @@ English Phonemic - http://www.teachingenglish.org.uk/article/phonemic-chart - 30
 Collocations - https://www.aprendeinglessila.com/2015/10/collocations-ingles-espanol-con-pronunciacion-y-pdf/ - 30-09-17
 Intelligent agent - https://en.wikipedia.org/wiki/Intelligent_agent - 08/09/17
 Intelligent Agents - https://www.ics.uci.edu/~rickl/courses/cs-171/cs171-lecture-slides/cs-171-01-Agents.pdf - 08/09/17
+SOAP WebServices - https://trinitytuts.com/load-data-from-soap-web-service-in-android-application/ - 14/10/17
+SOAP PHP - https://www.sitepoint.com/web-services-with-php-and-soap-1/ - 14/10/17
+
 
